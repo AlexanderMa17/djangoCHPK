@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba1a8c35-d83a-4c5f-9eba-4528e493ecf9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="222d6AafsPer97WqPIZhfFApTFz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba1a8c35-d83a-4c5f-9eba-4528e493ecf9" name="Changes" comment="" />
+      <created>1639039437889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639039437889</updated>
+      <workItem from="1639479876828" duration="347000" />
+      <workItem from="1639480776993" duration="1573000" />
+      <workItem from="1639482458945" duration="278000" />
+      <workItem from="1639482772503" duration="88000" />
+      <workItem from="1639482913895" duration="106000" />
+      <workItem from="1639483364553" duration="871000" />
+      <workItem from="1639484461037" duration="88000" />
+      <workItem from="1639484654484" duration="59000" />
+      <workItem from="1639488522281" duration="300000" />
+      <workItem from="1639489022086" duration="92000" />
+      <workItem from="1639489202069" duration="250000" />
+      <workItem from="1639489483338" duration="654000" />
+      <workItem from="1639491063638" duration="1902000" />
+      <workItem from="1639493150764" duration="271000" />
+      <workItem from="1639493783792" duration="474000" />
+      <workItem from="1639747309613" duration="1441000" />
+      <workItem from="1639826426632" duration="1633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639491322628">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639491322628" />
+    <state x="315" y="283" key="FileChooserDialogImpl" timestamp="1639489086173">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="315" y="283" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1639489086173" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1639489096295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639489096295" />
+  </component>
+</project>
